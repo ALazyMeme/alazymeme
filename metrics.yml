@@ -1,0 +1,8 @@
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.29
+  with:
+    config_timezone: Australia/Brisbane
+    filename: metrics.terminal.svg
+    token: ${{ secrets.METRICS_TOKEN }}
+    base: header, metadata
+    template: terminal
