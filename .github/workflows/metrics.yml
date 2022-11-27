@@ -35,10 +35,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_screenshot: yes
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://alazymeme.com
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
